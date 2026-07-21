@@ -90,21 +90,6 @@ Some insights generated from the dashboard include:
 
 ---
 
-## 📷 Dashboard Preview
-
-> Add a screenshot of your Power BI dashboard here.
-
-Example:
-
-```
-<img width="1895" height="982" alt="Screenshot 2026-07-21 231121" src="https://github.com/user-attachments/assets/08e41e89-8673-4656-9f3a-4635596cfbda" />
-
-```
-
-
-
----
-
 ## 🎓 Skills Demonstrated
 
 - Business Analytics
